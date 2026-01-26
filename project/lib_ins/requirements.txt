@@ -1,0 +1,17 @@
+# CORE SCIENTIFIC LIBRARIES
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# AUDIO PROCESSING
+librosa>=0.10.0
+sounddevice>=0.4.6
+
+# MACHINE LEARNING
+scikit-learn>=1.2.0
+hmmlearn>=0.3.0
+
+# UTILITIES & UI
+joblib>=1.2.0
+tqdm>=4.65.0
+keyboard>=0.13.5
