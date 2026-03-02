@@ -49,7 +49,7 @@ The processing pipeline consists of 5 main stages:
 ## ⚙️ Installation
 
 ### Prerequisites
-* Python 3.10 or higher.
+* Python 3.10 or higher. (3.11 recommend)
 * Microphone input.
 * (Windows) Microsoft C++ Build Tools (required for `hmmlearn`).
 
